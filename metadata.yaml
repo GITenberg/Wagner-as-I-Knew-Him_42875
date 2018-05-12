@@ -1,0 +1,28 @@
+_repo: Wagner-as-I-Knew-Him_42875
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42875-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Praeger, Ferdinand
+    alias: Praeger, Ferdinand Christian Wilhelm
+    birthdate: 1815
+    deathdate: 1891
+    gutenberg_agent_id: '41900'
+    url: http://www.gutenberg.org/2009/agents/41900
+description: ''
+gutenberg_issued: '2013-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42875'
+  lccn: '06006353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Wagner, Richard, 1813-1883'
+title: Wagner as I Knew Him
+url: http://www.gutenberg.org/ebooks/42875
